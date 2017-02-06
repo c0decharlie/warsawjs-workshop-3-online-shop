@@ -1,0 +1,33 @@
+body {
+    background:#eee;
+}
+
+.shop-container {
+    background:#fff;
+    padding-top:65px;
+    padding-bottom:20px;
+}
+
+.product-container {
+    margin:15px 5px;
+    border:1px solid #eee;
+    padding:10px 15px;
+}
+
+.product-container h3 {
+    margin: 3px 0;
+}
+
+.cart {
+    margin-top:9px;
+}
+
+.footer-container {
+    height:50px;
+    background:#f8f8f8;
+    border-top:1px solid #e7e7e7;
+}
+
+.footer-caption {
+    margin-top:15px;
+}
